@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <student>
 	<osnovni_podaci>
-		<ime></ime>
-		<prezime></prezime>
-		<jmbag></jmbag>
-		<datum_rodenja></datum_rodenja>
-		<god_studija></god_studija>
+		<ime>Lara</ime>
+		<prezime>Štrus</prezime>
+		<jmbag>0036561093</jmbag>
+		<datum_rodenja>2004-08-14</datum_rodenja>
+		<god_studija>2</god_studija>
 	</osnovni_podaci>
 	<kontakt>
-		<email></email>
-		<telefon></telefon>
+		<email>lstrus@tvz.hr</email>
+		<telefon>097 123 4567</telefon>
 	</kontakt>
 	<kolegij id="1">
-		<naziv>Graficki dizajn</naziv>
-		<profesor>Morana Jugovic</profesor>
+		<naziv>Grafički dizajn</naziv>
+		<profesor>Morana Jugović</profesor>
 		<ects>6</ects>
 	</kolegij>
 	<kolegij id="2">
 		<naziv>Programiranje web aplikacija</naziv>
-		<profesor>Alen Simec</profesor>
+		<profesor>Alen Šimec</profesor>
 		<ects>5</ects>
 	</kolegij>
 	<kolegij id="3">
 		<naziv>Engleski jezik u informatici 2</naziv>
-		<profesor>Biljana Stojakovic</profesor>
+		<profesor>Biljana Stojaković</profesor>
 		<ects>3</ects>
 	</kolegij>
 </student>
