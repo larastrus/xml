@@ -2,14 +2,14 @@
 <student>
 	<osnovni_podaci>
 		<ime>Lara</ime>
-		<prezime>Strus</prezime>
+		<prezime>Štrus</prezime>
 		<jmbag>0036561093</jmbag>
 		<datum_rodenja>2004-08-14</datum_rodenja>
 		<god_studija>2</god_studija>
 		<stud_prog>informatika</stud_prog>
 	</osnovni_podaci>
 	<adresa>
-		<ulica>Bana Josipa Jelacica</ulica>
+		<ulica>Bana Josipa Jelačića</ulica>
 		<grad>Vukovar</grad>
 		<post_br>32000</post_br>
 	</adresa>
