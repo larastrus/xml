@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osoba xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="vjezba4-1.xsd">
+
+    <ime>Ana</ime>
+    <cijena>10 EUR</cijena>
+    <godine>20</godine>
+    <aktivan>Ne</aktivan>
+    <datumRodjenja>2006-04-05</datumRodjenja>
+    <vrijemePocetka>10:05:00</vrijemePocetka>
+
+</osoba>
+
+ 
