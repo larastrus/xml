@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Osoba spol="Ž">
+    <Ime>Lara</Ime>
+    <Prezime>Štrus</Prezime>
+    <MjestoStanovanja>
+        <Adresa>Barcev trg</Adresa>
+        <Grad>Zagreb</Grad>
+        <Drzava>Hrvatska</Drzava>
+    </MjestoStanovanja>
+    <Kontakt>
+        <Mobitel>1234567890</Mobitel>
+        <KucniTelefon>123456</KucniTelefon>
+        <Email>lstrus@tvz.hr</Email>
+    </Kontakt>
+</Osoba>

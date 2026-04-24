@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Narudzba>
+    <Ime>Lara</Ime>
+    <Prezime>Štrus</Prezime>
+    <MjestoStanovanja>
+        <Adresa>Barčev trg</Adresa>
+        <Grad>Zagreb</Grad>
+        <Drzava>Hrvatska</Drzava>
+    </MjestoStanovanja>
+    <NaruceniArtikl>
+        <Naziv>Samsung Galaxy S26</Naziv>
+        <Kolicina>1</Kolicina>
+        <Cijena>1000 EUR</Cijena>
+    </NaruceniArtikl>
+</Narudzba>
