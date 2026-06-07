@@ -1,0 +1,5 @@
+/Studenti/*
+/Studenti/Student/*
+//Kolokvij[@*]
+//@*
+//Predmet/*
