@@ -1,0 +1,6 @@
+1. 1. XML 2. DOM 3. JSON 4. JavaScript
+2. XML
+3. 1. XSLT 2. DOM 3. AJAX 4. JavaScript
+4. XML
+5. 1. XML 2. PHP 3. DOM
+6. 1. XPath 2. JSON 3. HTML
